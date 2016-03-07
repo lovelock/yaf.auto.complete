@@ -1975,8 +1975,6 @@ namespace Yaf
          * (Yaf >= 2.2.9) 
          * 设置响应报头
          *
-         * @deprecated 总是返回null
-         *
          * @return null
          */
         public function setHeader(){}
